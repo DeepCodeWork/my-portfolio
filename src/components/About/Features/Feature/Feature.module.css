@@ -1,0 +1,15 @@
+.feature{
+    margin: 10px;
+    background-color: #64C7CC;
+    color: white;
+}
+
+.feature:hover{
+    color: #64C7CC;
+    background-color: white;
+    transform: rotate(30deg);
+}
+
+.mdi{
+    font-size: 80px;
+}
