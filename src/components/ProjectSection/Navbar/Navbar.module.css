@@ -1,0 +1,15 @@
+.navbar{
+    padding: 15px;
+}
+
+.navbar button{
+    padding: 10px 30px;
+    font-size: 20px;
+    margin: 30px 30px 5px 30px;
+}
+
+.navbar button:hover{
+    background-color: #64C7CC;
+    color: white;
+}
+

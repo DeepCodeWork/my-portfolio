@@ -46,6 +46,6 @@
 	}
 }
 
-.btn .i :hover{
-    transform: rotate(90deg);
+i .fas:hover{
+	transform: rotate(90deg);
 }

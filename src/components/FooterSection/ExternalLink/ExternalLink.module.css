@@ -1,0 +1,10 @@
+.link i{
+    font-size: 30px;
+    color: white;
+ }
+
+.link{
+    width: 70px;
+    height: 110%;
+    border-radius: 5px;
+}

@@ -1,0 +1,12 @@
+.avatar{
+    padding: 4px;
+}
+
+.avatar img{
+    width: 300px;
+    height: 300px;
+}
+
+.avatar h3{
+    color: grey;
+}
