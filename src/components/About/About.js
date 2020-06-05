@@ -1,5 +1,5 @@
 import React from 'react';
-import Aux from '../../hoc/Aux';
+import Aux from '../../hoc/Auxi';
 import classes from './About.module.css';
 import Features from './Features/Features';
 import AvatarSkill from './AvatarSkill/AvatarSkill';

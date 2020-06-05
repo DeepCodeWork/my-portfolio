@@ -1,5 +1,5 @@
 import React from 'react';
-import Aux from '../../hoc/Aux';
+import Aux from '../../hoc/Auxi';
 import Home from '../Home/Home';
 import About from '../About/About';
 import ProjectSection from '../ProjectSection/ProjectSection';
