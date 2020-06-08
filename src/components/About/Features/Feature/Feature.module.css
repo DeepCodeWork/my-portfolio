@@ -5,9 +5,11 @@
 }
 
 .feature:hover{
-    transform: translateY(-20px);
+    transform: rotateY(360deg);
+    transition-duration: 1s;
 }
 
 .mdi{
     font-size: 80px;
 }
+

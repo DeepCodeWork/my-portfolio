@@ -4,7 +4,7 @@ import ProjectImage from '../../../UI/ProjectImage/ProjectImage';
 const Project = (props) => {
     return (
         <div>
-            <ProjectImage image ={ props.image }></ProjectImage>
+            <a href={props.link}><ProjectImage image ={ props.image }></ProjectImage></a>
         </div>
     );
 }

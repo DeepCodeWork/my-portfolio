@@ -11,7 +11,7 @@ const Layout = () => {
     return (
     <Aux>
         <Home/>
-        <About/>
+        <About id="/about"/>
         <ProjectSection/>
         <BlogSection/>
         <ContactSection/>

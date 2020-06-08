@@ -46,6 +46,7 @@
 	}
 }
 
-i .fas:hover{
+.icon:hover .fas{
 	transform: rotate(90deg);
+	transition-duration: 0.5s;
 }
